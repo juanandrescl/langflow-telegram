@@ -3,6 +3,6 @@
 A very minimal Telegram bot that forwards messages to Langflow and returns its responses. The bot itself has no real
 logic.
 
-## Installation
+## Installation local
 
-`uv sync`
+`uv sync` 
